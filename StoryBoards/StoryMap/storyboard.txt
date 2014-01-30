@@ -1,0 +1,992 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3800" measuredH="1091" mockupW="3652" mockupH="1049">
+  <controls>
+    <control controlID="271" controlTypeID="__group__" x="933" y="599" w="656" h="492" measuredW="656" measuredH="492" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="473" w="-1" h="-1" measuredW="656" measuredH="19" zOrder="0" locked="false" isInGroup="271">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Changes%20exported.%20%20To%20view%20the%20created%20issue%20pages%2C%20click%20on%20the%20provided%20link%20in%20the%20story.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="1" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="271">
+          <groupChildrenDescriptors>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Specify%20a%20project%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ImportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ExportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <text>storymap-shapeshift</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="170" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Open%3A%201%20Closed%3A%200%20Pending%3A%200</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="4" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="2" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="__group__" x="16" y="39" w="73" h="57" measuredW="73" measuredH="57" zOrder="2" locked="false" isInGroup="4">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="2">
+                          <controlProperties>
+                            <align>center</align>
+                            <text>Allow...</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>Monitor</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>CircledXIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>WriteIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="10" controlTypeID="__group__" x="16" y="110" w="73" h="57" measuredW="73" measuredH="57" zOrder="6" locked="false" isInGroup="4">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="10">
+                          <controlProperties>
+                            <align>center</align>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="20" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="10">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="5" controlTypeID="__group__" x="141" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="3" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <icon>CircledPlusIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="387" y="83" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="6" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Changes%20exported.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="274" controlTypeID="__group__" x="933" y="42" w="653" h="492" measuredW="653" measuredH="492" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="0" locked="false" isInGroup="274">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Specify%20a%20project%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <icon>ImportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="0">
+              <controlProperties>
+                <icon>ExportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>storymap-shapeshift</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="1" locked="false" isInGroup="5">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <icon>CircledPlusIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="2" locked="false" isInGroup="5">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="173" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Open%3A%200%20Closed%3A%200%20Pending%3A%200</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="95" y="473" w="-1" h="-1" measuredW="463" measuredH="19" zOrder="1" locked="false" isInGroup="274">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Project%20Loaded.%20%20To%20add%20a%20new%20category%2C%20click%20on%20the%20add%20button.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="277" controlTypeID="__group__" x="1671" y="42" w="653" h="492" measuredW="653" measuredH="492" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="242" y="473" w="-1" h="-1" measuredW="169" measuredH="19" zOrder="0" locked="false" isInGroup="277">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Adding%20a%20new%20category.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="277">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Specify%20a%20project%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ImportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ExportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <text>storymap-shapeshift</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="1" locked="false" isInGroup="5">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="2" locked="false" isInGroup="5">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="173" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                          <controlProperties>
+                            <text>Open%3A%200%20Closed%3A%200%20Pending%3A%200</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="188" y="169" w="277" h="121" measuredW="277" measuredH="121" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="277" h="121" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+                <control controlID="1" controlTypeID="__group__" x="44" y="34" w="194" h="27" measuredW="194" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <text>Category%20Name%3A</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="111" y="0" w="83" h="-1" measuredW="58" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <text>Monitor</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="2" controlTypeID="__group__" x="73" y="84" w="131" h="27" measuredW="131" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="0" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <text>Create</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="68" y="0" w="63" h="27" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <text>Cancel</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="280" controlTypeID="__group__" x="2409" y="42" w="653" h="492" measuredW="653" measuredH="492" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="34" y="473" w="-1" h="-1" measuredW="585" measuredH="19" zOrder="0" locked="false" isInGroup="280">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>New%20category%20added.%20%20To%20add%20a%20story%20to%20a%20category%2C%20click%20on%20the%20add%20story%20button.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="280">
+          <groupChildrenDescriptors>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Specify%20a%20project%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ImportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ExportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <text>storymap-shapeshift</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="173" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Open%3A%200%20Closed%3A%200%20Pending%3A%200</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="4" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="2" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="__group__" x="16" y="39" w="73" h="57" measuredW="73" measuredH="57" zOrder="2" locked="false" isInGroup="4">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="2">
+                          <controlProperties>
+                            <align>center</align>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="20" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>Monitor</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>CircledXIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>WriteIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="5" controlTypeID="__group__" x="141" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="3" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <icon>CircledPlusIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="283" controlTypeID="__group__" x="171" y="42" w="701" h="492" measuredW="701" measuredH="492" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="24" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="0" locked="false" isInGroup="283">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Specify%20a%20project%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <icon>ImportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="__group__" x="15" y="110" w="622" h="312" measuredW="622" measuredH="312" zOrder="4" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text/>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="473" w="-1" h="-1" measuredW="701" measuredH="19" zOrder="1" locked="false" isInGroup="283">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Initial%20State.%20%20To%20proceed%2C%20input%20a%20GitHub%20repository%20link%20in%20the%20textbox%20and%20click%20the%20import%20button.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="286" controlTypeID="__group__" x="3147" y="42" w="653" h="492" measuredW="653" measuredH="492" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="256" y="473" w="-1" h="-1" measuredW="142" measuredH="19" zOrder="0" locked="false" isInGroup="286">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Adding%20a%20new%20story.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="286">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Specify%20a%20project%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ImportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ExportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="7" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+                      <controlProperties>
+                        <text>storymap-shapeshift</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="173" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                          <controlProperties>
+                            <text>Open%3A%200%20Closed%3A%200%20Pending%3A%200</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="4" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="2" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="__group__" x="16" y="39" w="73" h="57" measuredW="73" measuredH="57" zOrder="2" locked="false" isInGroup="4">
+                          <groupChildrenDescriptors>
+                            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="2">
+                              <controlProperties>
+                                <align>center</align>
+                                <text/>
+                              </controlProperties>
+                            </control>
+                            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="20" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+                              <controlProperties>
+                                <icon>CircledPlusIcon%7Cxsmall</icon>
+                              </controlProperties>
+                            </control>
+                          </groupChildrenDescriptors>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <text>Monitor</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <icon>CircledXIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <icon>WriteIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="5" controlTypeID="__group__" x="141" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="3" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="167" y="95" w="319" h="269" measuredW="319" measuredH="269" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="319" h="269" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+                <control controlID="1" controlTypeID="__group__" x="23" y="15" w="281" h="27" measuredW="281" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <text>Story%20Name%3A</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="81" y="0" w="200" h="-1" measuredW="297" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <text>Allow%20the%20user%20to%20see%20the%20urgency%20of%20each%20issue.</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="2" controlTypeID="__group__" x="73" y="227" w="131" h="27" measuredW="131" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="0" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <text>Create</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="68" y="0" w="63" h="27" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+                      <controlProperties>
+                        <text>Cancel</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="23" y="60" w="281" h="81" measuredW="281" measuredH="81" zOrder="3" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="0" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Description%3A</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="81" y="0" w="200" h="81" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Red%3A%20High%0AYellow%3A%20Medium%0AWhite%3A%20Normal</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="4" controlTypeID="__group__" x="23" y="151" w="145" h="25" measuredW="145" measuredH="25" zOrder="4" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="0" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>State%3A</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="82" y="1" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="1" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>Open</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="5" controlTypeID="__group__" x="23" y="186" w="132" h="24" measuredW="132" measuredH="24" zOrder="5" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="1" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="0" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <text>Points%3A</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="3" controlTypeID="com.balsamiq.mockups::NumericStepper" x="82" y="0" w="-1" h="-1" measuredW="50" measuredH="24" zOrder="1" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <text>20</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="289" controlTypeID="__group__" x="148" y="599" w="746" h="492" measuredW="746" measuredH="492" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="473" w="-1" h="-1" measuredW="746" measuredH="19" zOrder="0" locked="false" isInGroup="289">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>New%20story%20added.%20%20To%20export%20your%20changes%20to%20GitHub%2C%20press%20the%20export%20button%20next%20to%20the%20import%20button.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="46" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="289">
+          <groupChildrenDescriptors>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Specify%20a%20project%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ImportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ExportIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <text>storymap-shapeshift</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="170" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                      <controlProperties>
+                        <text>Open%3A%201%20Closed%3A%200%20Pending%3A%200</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="4" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="2" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="__group__" x="16" y="39" w="73" h="57" measuredW="73" measuredH="57" zOrder="2" locked="false" isInGroup="4">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="2">
+                          <controlProperties>
+                            <align>center</align>
+                            <text>Allow...</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <text>Monitor</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>CircledXIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="4">
+                      <controlProperties>
+                        <icon>WriteIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                    <control controlID="10" controlTypeID="__group__" x="16" y="110" w="73" h="57" measuredW="73" measuredH="57" zOrder="6" locked="false" isInGroup="4">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="10">
+                          <controlProperties>
+                            <align>center</align>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="20" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="10">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="5" controlTypeID="__group__" x="141" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="3" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <borderStyle>square</borderStyle>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="5">
+                      <controlProperties>
+                        <icon>CircledPlusIcon%7Cxsmall</icon>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="290" controlTypeID="__group__" x="1671" y="599" w="653" h="492" measuredW="653" measuredH="492" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="269" y="473" w="-1" h="-1" measuredW="115" measuredH="19" zOrder="0" locked="false" isInGroup="290">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>The%20issue%20page.</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="1" locked="false" isInGroup="290">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="653" h="458" measuredW="653" measuredH="458" zOrder="0" locked="false" isInGroup="5">
+              <groupChildrenDescriptors>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="653" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Story%20Map%0Ahttp%3A//mahajarama.github.io/storymap-shapeshift/index.html</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="29" y="83" w="105" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Specify%20a%20project%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="81" w="167" h="-1" measuredW="342" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>https%3A//github.com/Mahajarama/storymap-shapeshift.git</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="314" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ImportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="348" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>ExportIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="7" controlTypeID="__group__" x="15" y="110" w="623" h="312" measuredW="623" measuredH="312" zOrder="5" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="622" h="312" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+                      <controlProperties>
+                        <text>storymap-shapeshift</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="3" controlTypeID="__group__" x="0" y="285" w="623" h="27" measuredW="623" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="623" h="27" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="3" w="229" h="-1" measuredW="170" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+                          <controlProperties>
+                            <text>Open%3A%201%20Closed%3A%200%20Pending%3A%200</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="4" controlTypeID="__group__" x="18" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="2" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="__group__" x="16" y="39" w="73" h="57" measuredW="73" measuredH="57" zOrder="2" locked="false" isInGroup="4">
+                          <groupChildrenDescriptors>
+                            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="2">
+                              <controlProperties>
+                                <align>center</align>
+                                <text>Allow...</text>
+                              </controlProperties>
+                            </control>
+                          </groupChildrenDescriptors>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <text>Monitor</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <icon>CircledXIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="4">
+                          <controlProperties>
+                            <icon>WriteIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                        <control controlID="10" controlTypeID="__group__" x="16" y="110" w="73" h="57" measuredW="73" measuredH="57" zOrder="6" locked="false" isInGroup="4">
+                          <groupChildrenDescriptors>
+                            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="73" h="57" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="10">
+                              <controlProperties>
+                                <align>center</align>
+                                <text/>
+                              </controlProperties>
+                            </control>
+                            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="29" y="20" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="10">
+                              <controlProperties>
+                                <icon>CircledPlusIcon%7Cxsmall</icon>
+                              </controlProperties>
+                            </control>
+                          </groupChildrenDescriptors>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="5" controlTypeID="__group__" x="141" y="18" w="104" h="252" measuredW="104" measuredH="252" zOrder="3" locked="false" isInGroup="7">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="104" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="104" h="228" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <borderStyle>square</borderStyle>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="44" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="5">
+                          <controlProperties>
+                            <icon>CircledPlusIcon%7Cxsmall</icon>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="387" y="83" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="6" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Changes%20exported.</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="144" y="82" w="365" h="324" measuredW="365" measuredH="324" zOrder="1" locked="false" isInGroup="5">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="365" h="324" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <close>true</close>
+                    <maximizeRestore>false</maximizeRestore>
+                    <minimize>false</minimize>
+                    <text>Allow%20the%20user%20to%20see%20the%20urgency%20of%20each%20issue.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="104" y="135" w="-1" h="-1" measuredW="158" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>%3CThe%20issue%20page%20content%3E</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
